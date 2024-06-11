@@ -7,7 +7,8 @@
 ## Education
 - BSc, Computer Science with a Minor in Adult Education | CONCORDIA UNIVERSITY, 2024
     - CS relevant courses: Data Analytics, Databases, Machine Learning, Big Data Analytics, Web Programming
-    - ADED relevant courses: Concepts and Principles of Adult Education, Design of Adult Learning Projects, Diversity in Adults								       		
+    - ADED relevant courses: Concepts and Principles of Adult Education, Design of Adult Learning Projects, Diversity in Adults
+            		
 - AS, Mathematics and Science | JAMESTOWN COMMUNITY COLLEGE SUNY, 2020
 
 ## Projects
