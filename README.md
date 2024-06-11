@@ -30,7 +30,7 @@
 
 ### Tutor, Jamestown Community College Learning Center
 - Served as a student ambassador, mentoring student-athletes to foster academic dedication. Specialized in tutoring 100 and 200-level math and programming courses I had completed.
-- 
+
 ### Student Support Specialist, Washington Middle School, and Jamestown High School
 - Completed a 3-month internship focused on supporting at-risk students to prevent dropout by assisting students with academic work and fostering essential soft skills, including planning, time management, and motivation.
 
