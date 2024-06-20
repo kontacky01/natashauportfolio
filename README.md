@@ -1,4 +1,4 @@
-# Aspiring Data Engineer-Scientist-Analyst
+# Aspiring DevOps or Data Engineer
 
 #### Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
 
