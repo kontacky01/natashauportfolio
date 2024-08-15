@@ -1,15 +1,18 @@
 # Aspiring DevOps or Data Engineer
 
-#### Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
+## Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
 
-#### Technical Skills: Python (NumPy, SciPy, Pandas, Matplotlib, Torch, Scikit-learn, Dask, Apache Spark), Java, C++, HTML, CSS, JavaScript, Node.js, Ruby, Scala, SQL, Power BI, Excel, UML, Git
+## Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL
+## Technologies Tools: Version Control - GitHub. Text Editors - VSCode, Colab, and Jupiter Notebook. Platforms – MySQL Azure
 
-## Education
-- BSc, Computer Science with a Minor in Adult Education | CONCORDIA UNIVERSITY, 2024
-    - CS relevant courses: Data Analytics, Databases, Machine Learning, Big Data Analytics, Web Programming
-    - ADED relevant courses: Concepts and Principles of Adult Education, Design of Adult Learning Projects, Diversity in Adults
-            		
-- AS, Mathematics and Science | JAMESTOWN COMMUNITY COLLEGE SUNY, 2020
+## Education & Certifications
+- mthree Academy – Certificate in Foundations of SRE – July 2024 – Sept 2024
+Key Subjects – Computer Architecture, IT Service Management, Linux, Financial Concepts, Scheduling and Automation, DevOps
+Foundations, Relational Databases and MySQL, Python, SRE Concepts, Implementing SRE
+- Concordia University – Major: Computer Science (3.2 GPA) – Sep 2021 – Jun 2024
+Key Subjects – Data Analytics, Big Data Analytics, Databases, Machine Learning, Web Programming, OOP
+- Jamestown Community College – Major: Mathematics and Science (3.9 GPA) – Aug 2017 – May 2018
+Key Subjects – Differential Calculus, Statistics
 
 ## Projects
 ### SKU analysis and product matching, MECP company through Concordia University
@@ -34,25 +37,27 @@
 ### Student Support Specialist, Washington Middle School, and Jamestown High School
 - Completed a 3-month internship focused on supporting at-risk students to prevent dropout by assisting students with academic work and fostering essential soft skills, including planning, time management, and motivation.
 
-## Techincal/Industry Work Experience
-**Software Developer - Business Analysis @ Rio Tinto – Montreal Hub (_May 2022 - Dec 2022_)**
-- Created a versatile PowerApps application encompassing data collection, application mapping, and business/technical assessments.
-- Led the migration of an MS Access database to MySQL Azure, actively contributing to schema modifications, necessary relations for application support, data cleaning, and database normalization.
-- Developed insightful Power BI dashboards to effectively communicate data insights from various business units to key stakeholders.
-- Evolved by collaborating with a multi-generational team, gaining proficiency in working through iterations within an incremental process.
+## Technical Industry Experience
+**Software Development / Business Analysis Intern – Rio Tinto – May 2022 - Dec 2022**
+- Led the migration of an MS Access database to MySQL Azure, actively contributing to schema modifications, necessary
+relations for application support, data cleaning, and database normalization.
+- Created a versatile PowerApps application encompassing data collection, application mapping, and assessments.
+- Developed insightful Power BI dashboards to effectively communicate data insights from various business units to key
+stakeholders.
 
-## Other Relevant Work Experience
-**Barista - Cashier - Customer Service @ Leche Desserts (_February 2023 - Present_)**
-- Manage coffee and dessert service, process orders, coordinate sandwich bar operations, and provide excellent customer service.
-- I have developed a robust capacity for multitasking and adeptly handling incoming priorities with patience and composure.
-
-**Senior Agent - Debt Collector @ Gatestone & Co Inc – Montreal (_January 2021 - May 2022_)**
+## Additional Experience
+**Barista Cashier – Léché Desserts – Feb 2023 – July 2024**
+- Manage coffee and dessert service, process orders, coordinate sandwich bar operations, operate POS system, and
+provide excellent customer service
+- Transferable skills: multitasking and adeptly handling incoming priorities with patience and composure.
+**Financial Representative – Gatestone & Co Inc – Jan 2021 - May 2022**
 - Negotiated payment plans with debtors, provided credit education, and achieved top collector status.
-- Trained and created processes for new onboarding agents.
-- Strengthened client empathy and negotiation skills.
-
-**Foreign Exchange Teller @ Calforex (Calgary Foreign Exchange) – Montreal Branch (_August 2019 - January 2021_)**
-- Produced compliance reports for large transactions, executed money exchange in various forms and currencies, balanced local branch treasury, and improved customer experience through inquiry resolution.
+- Provided training and created processes for new onboarding agents.
+- Transferable skills: regulatory compliance, training, conflict resolution, client empathy, persuasion and negotiation skills.
+**Foreign Exchange Teller – Calforex – Aug2019 - Jan 2021**
+- Produced compliance reports for large transactions, executed money exchange in various forms and currencies,
+balanced local branch treasury, and improved customer experience through inquiry resolution.
+- Transferable Skills: currency handling, mathematical proficiency, regulatory compliance, attention to detail.
 
 ## Additional
 References available upon request.
