@@ -38,25 +38,21 @@ Key Subjects – Differential Calculus, Statistics
 - Completed a 3-month internship focused on supporting at-risk students to prevent dropout by assisting students with academic work and fostering essential soft skills, including planning, time management, and motivation.
 
 ## Technical Industry Experience
-**Software Development / Business Analysis Intern – Rio Tinto – May 2022 - Dec 2022**
-- Led the migration of an MS Access database to MySQL Azure, actively contributing to schema modifications, necessary
-relations for application support, data cleaning, and database normalization.
+**Software Development/Business Analysis Intern – Rio Tinto – May 2022 - Dec 2022**
+- Led the migration of an MS Access database to MySQL Azure, actively contributing to schema modifications, necessary relations for application support, data cleaning, and database normalization.
 - Created a versatile PowerApps application encompassing data collection, application mapping, and assessments.
-- Developed insightful Power BI dashboards to effectively communicate data insights from various business units to key
-stakeholders.
+- Developed insightful Power BI dashboards to effectively communicate data insights from various business units to key stakeholders.
 
 ## Additional Experience
 **Barista Cashier – Léché Desserts – Feb 2023 – July 2024**
-- Manage coffee and dessert service, process orders, coordinate sandwich bar operations, operate POS system, and
-provide excellent customer service
+- Manage coffee and dessert service, process orders, coordinate sandwich bar operations, operate POS system, and provide excellent customer service
 - Transferable skills: multitasking and adeptly handling incoming priorities with patience and composure.
 **Financial Representative – Gatestone & Co Inc – Jan 2021 - May 2022**
 - Negotiated payment plans with debtors, provided credit education, and achieved top collector status.
 - Provided training and created processes for new onboarding agents.
 - Transferable skills: regulatory compliance, training, conflict resolution, client empathy, persuasion and negotiation skills.
 **Foreign Exchange Teller – Calforex – Aug2019 - Jan 2021**
-- Produced compliance reports for large transactions, executed money exchange in various forms and currencies,
-balanced local branch treasury, and improved customer experience through inquiry resolution.
+- Produced compliance reports for large transactions, executed money exchange in various forms and currencies, balanced local branch treasury, and improved customer experience through inquiry resolution.
 - Transferable Skills: currency handling, mathematical proficiency, regulatory compliance, attention to detail.
 
 ## Additional
