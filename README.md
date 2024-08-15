@@ -5,12 +5,12 @@ Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL
 Technologies Tools: Version Control - GitHub. Text Editors - VSCode, Colab, and Jupiter Notebook. Platforms – MySQL Azure
 
 ## Education & Certifications
-- mthree Academy – Certificate in Foundations of SRE – July 2024 – Sept 2024
+- mthree Academy – Certificate in Foundations of SRE – July 2024 – Sept 2024 <br>
 Key Subjects – Computer Architecture, IT Service Management, Linux, Financial Concepts, Scheduling and Automation, DevOps
 Foundations, Relational Databases and MySQL, Python, SRE Concepts, Implementing SRE
-- Concordia University – Major: Computer Science (3.2 GPA) – Sep 2021 – Jun 2024
+- Concordia University – Major: Computer Science (3.2 GPA) – Sep 2021 – Jun 2024 <br>
 Key Subjects – Data Analytics, Big Data Analytics, Databases, Machine Learning, Web Programming, OOP
-- Jamestown Community College – Major: Mathematics and Science (3.9 GPA) – Aug 2017 – May 2018
+- Jamestown Community College – Major: Mathematics and Science (3.9 GPA) – Aug 2017 – May 2018 <br>
 Key Subjects – Differential Calculus, Statistics
 
 ## Projects
@@ -41,6 +41,7 @@ Key Subjects – Differential Calculus, Statistics
 - Led the migration of an MS Access database to MySQL Azure, actively contributing to schema modifications, necessary relations for application support, data cleaning, and database normalization.
 - Created a versatile PowerApps application encompassing data collection, application mapping, and assessments.
 - Developed insightful Power BI dashboards to effectively communicate data insights from various business units to key stakeholders.
+- Transferrable skills: MySQL Azure, application development, data management, analysis.
 
 ## Additional Experience
 **Barista Cashier – Léché Desserts – Feb 2023 – July 2024**
@@ -56,5 +57,4 @@ Key Subjects – Differential Calculus, Statistics
 - Produced compliance reports for large transactions, executed money exchange in various forms and currencies, balanced local branch treasury, and improved customer experience through inquiry resolution.
 - Transferable Skills: currency handling, mathematical proficiency, regulatory compliance, attention to detail.
 
-## Additional
-References available upon request.
+** References available upon request.**
