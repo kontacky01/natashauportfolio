@@ -1,9 +1,9 @@
 # Aspiring DevOps or Data Engineer
 
-## Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
+#### Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
 
-## Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL
-## Technologies Tools: Version Control - GitHub. Text Editors - VSCode, Colab, and Jupiter Notebook. Platforms – MySQL Azure
+#### Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL
+#### Technologies Tools: Version Control - GitHub. Text Editors - VSCode, Colab, and Jupiter Notebook. Platforms – MySQL Azure
 
 ## Education & Certifications
 - mthree Academy – Certificate in Foundations of SRE – July 2024 – Sept 2024
