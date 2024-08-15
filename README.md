@@ -1,9 +1,8 @@
 # Aspiring DevOps or Data Engineer
 
-#### Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
-
-#### Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL
-#### Technologies Tools: Version Control - GitHub. Text Editors - VSCode, Colab, and Jupiter Notebook. Platforms – MySQL Azure
+Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
+Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL
+Technologies Tools: Version Control - GitHub. Text Editors - VSCode, Colab, and Jupiter Notebook. Platforms – MySQL Azure
 
 ## Education & Certifications
 - mthree Academy – Certificate in Foundations of SRE – July 2024 – Sept 2024
@@ -47,10 +46,12 @@ Key Subjects – Differential Calculus, Statistics
 **Barista Cashier – Léché Desserts – Feb 2023 – July 2024**
 - Manage coffee and dessert service, process orders, coordinate sandwich bar operations, operate POS system, and provide excellent customer service
 - Transferable skills: multitasking and adeptly handling incoming priorities with patience and composure.
+
 **Financial Representative – Gatestone & Co Inc – Jan 2021 - May 2022**
 - Negotiated payment plans with debtors, provided credit education, and achieved top collector status.
 - Provided training and created processes for new onboarding agents.
 - Transferable skills: regulatory compliance, training, conflict resolution, client empathy, persuasion and negotiation skills.
+
 **Foreign Exchange Teller – Calforex – Aug2019 - Jan 2021**
 - Produced compliance reports for large transactions, executed money exchange in various forms and currencies, balanced local branch treasury, and improved customer experience through inquiry resolution.
 - Transferable Skills: currency handling, mathematical proficiency, regulatory compliance, attention to detail.
