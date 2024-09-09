@@ -2,7 +2,7 @@
 
 Languages: English (Fluent), French (Fluent)
 
-Languages: Programming – Java, Python, HTML/CSS, JavaScript, SQL. Scripting – Bash, Python
+Languages: Programming – Java, Python, HTML/CSS, JavaScript, SQL. Scripting – Bash, Python <br>
 Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems – Linux. Monitoring – Grafana. CI/CD – Jenkins. Container Orchestration – Kubernetes, Docker.
 
 ## Education & Certifications
