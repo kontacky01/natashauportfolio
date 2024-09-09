@@ -1,8 +1,9 @@
-# Aspiring DevOps or Data Engineer
+# Aspiring DevOps or SRE Engineer
 
-Languages: English (Fluent), French (Fluent), Kinyarwanda (Mother Tongue)
-Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL
-Technologies Tools: Version Control - GitHub. Text Editors - VSCode, Colab, and Jupiter Notebook. Platforms – MySQL Azure
+Languages: English (Fluent), French (Fluent)
+
+Languages: Programming – Java, Python, HTML/CSS, JavaScript, SQL. Scripting – Bash, Python
+Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems – Linux. Monitoring – Grafana. CI/CD – Jenkins. Container Orchestration – Kubernetes, Docker.
 
 ## Education & Certifications
 - mthree Academy – Certificate in Foundations of SRE – July 2024 – Sept 2024 <br>
@@ -14,6 +15,14 @@ Key Subjects – Data Analytics, Big Data Analytics, Databases, Machine Learning
 Key Subjects – Differential Calculus, Statistics
 
 ## Projects
+### Enhanced site reliability and application value using SRE principles, mthree
+- Enhanced site functionality and application value using SRE principles in a team environment, applying Agile and Scrum methodologies with Trello.
+- Replaced PollSCM with GitHub WebHooks for immediate build triggers.
+- Modified code with try-catch blocks for accurate error codes and improved SLO monitoring using Grafana.
+- Conducted functional testing manually with Python scripts and automatically via Jenkins pipeline.
+- Performed exploratory stress testing with Selenium.
+![](/assets/proj5.png)
+
 ### SKU analysis and product matching, MECP company through Concordia University
 - Worked on a project comparing and matching products of MECP company with competitors' products through SKU and product description analysis. We focused on evaluating the accuracy and computational efficiency of various similarity algorithms.
 ![](/assets/proj1.png)
@@ -44,7 +53,7 @@ Key Subjects – Differential Calculus, Statistics
 - Transferrable skills: MySQL Azure, application development, data management, analysis.
 
 ## Additional Experience
-**Barista Cashier – Léché Desserts – Feb 2023 – July 2024**
+**Barista Cashier – Léché Desserts – Feb 2023 – Jul 2024**
 - Manage coffee and dessert service, process orders, coordinate sandwich bar operations, operate POS system, and provide excellent customer service
 - Transferable skills: multitasking and adeptly handling incoming priorities with patience and composure.
 
@@ -53,8 +62,8 @@ Key Subjects – Differential Calculus, Statistics
 - Provided training and created processes for new onboarding agents.
 - Transferable skills: regulatory compliance, training, conflict resolution, client empathy, persuasion and negotiation skills.
 
-**Foreign Exchange Teller – Calforex – Aug2019 - Jan 2021**
+**Foreign Exchange Teller – Calforex – Aug 2019 - Jan 2021**
 - Produced compliance reports for large transactions, executed money exchange in various forms and currencies, balanced local branch treasury, and improved customer experience through inquiry resolution.
-- Transferable Skills: currency handling, mathematical proficiency, regulatory compliance, attention to detail.
+- Transferable skills: currency handling, mathematical proficiency, regulatory compliance, attention to detail.
 
 ** References available upon request.**
