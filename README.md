@@ -7,11 +7,13 @@ Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems –
 
 ## Projects
 ### Enhanced site reliability and application value using SRE principles, mthree
-- Enhanced site functionality and application value using SRE principles in a team environment, applying Agile and Scrum methodologies with Trello.
-- Replaced PollSCM with GitHub WebHooks for immediate build triggers.
-- Modified code with try-catch blocks for accurate error codes and improved SLO monitoring using Grafana.
-- Conducted functional testing manually with Python scripts and automatically via Jenkins pipeline.
+- Used Linux and Bash on AWS EC2 to manage a trading app's APIs and components.
+- Understood the app’s architecture, including Docker, GitHub, Jenkins, Flux CD, Kubernetes, and Grafana.
+- Switched from PollSCM to GitHub WebHooks for instant build triggers.
+- Enhanced error handling by differentiating server-side from client-side errors for better monitoring and alerting in Grafana.
+- Conducted functional testing with Python scripts and Jenkins pipeline.
 - Performed exploratory stress testing with Selenium.
+- Applied Agile and Scrum principles using Trello for sprint management, backlog, and user stories.
 ![](/assets/proj5.png)
 
 ### SKU analysis and product matching, MECP company through Concordia University
