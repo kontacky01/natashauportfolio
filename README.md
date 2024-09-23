@@ -7,11 +7,11 @@ Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems –
 
 ## Projects
 ### Enhanced site reliability and application value using SRE principles, mthree
-- Used Linux and Bash on AWS EC2 to manage a trading app's APIs and components.
-- Understood the app’s architecture, including Docker, GitHub, Jenkins, Flux CD, Kubernetes, and Grafana.
+- Used Python and Bash to manage the APIs and components of a trading application hosted on an AWS EC2 instance, implementing SRE principles such as automation, monitoring, and toil reduction.
+- Configured the application’s architecture, which included Docker, GitHub, Jenkins, Flux CD, Kubernetes, and Grafana.
 - Switched from PollSCM to GitHub WebHooks for instant build triggers.
-- Enhanced error handling by differentiating server-side from client-side errors for better monitoring and alerting in Grafana.
-- Conducted functional testing with Python scripts and Jenkins pipeline.
+- Enhanced error handling by differentiating server-side from client-side errors for better monitoring and alerting in Grafana to better gauge the attainment of some our team's SLOs.
+- Automated functional and integrational testing with Python scripts within Jenkins pipelines.
 - Performed exploratory stress testing with Selenium.
 - Applied Agile and Scrum principles using Trello for sprint management, backlog, and user stories.
 ![](/assets/proj5.png)
