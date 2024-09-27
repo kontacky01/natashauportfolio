@@ -33,9 +33,10 @@ Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems –
 ![](/assets/proj4.png)
 
 ### Tutor, Jamestown Community College Learning Center
-- Served as a student ambassador for one year, mentoring student-athletes to foster academic dedication. Specialized in tutoring 100 and 200-level math and programming courses I had completed.
+- Served as a student ambassador for one year, mentoring student-athletes to foster academic dedication. I helped them maintain good academic standing to preserve their athletic scholarships at my college. I specialized in tutoring 100 and 200-level math and programming courses I had completed.
+- ![](/assets/proj6.jpg)
 
 ### Student Support Specialist, Washington Middle School, and Jamestown High School
-- Completed a 3-month internship focused on supporting at-risk students to prevent dropout by assisting students with academic work and fostering essential soft skills, including planning, time management, and motivation.
+- Completed a 3-month internship focused on supporting at-risk students to prevent dropout. My role involved helping students from challenging backgrounds by ensuring they stayed in school, kept up with their work, and remained on track for high school graduation. I assisted students with academic work and fostered essential soft skills, including planning, time management, and motivation.".
 
 ** References available upon request.**
