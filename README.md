@@ -38,5 +38,5 @@ Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems –
 
 ### Student Support Specialist, Washington Middle School, and Jamestown High School
 - Completed a 3-month internship focused on supporting at-risk students to prevent dropout. My role involved helping students from challenging backgrounds by ensuring they stayed in school, kept up with their work, and remained on track for high school graduation. I assisted students with academic work and fostered essential soft skills, including planning, time management, and motivation.".
-
+** Github repo - https://github.com/kontacky01 **
 ** References available upon request.**
