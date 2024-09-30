@@ -5,7 +5,7 @@ Languages: English (Fluent), French (Fluent)
 Languages: Programming – Java, Python, HTML/CSS, JavaScript, SQL. Scripting – Bash, Python <br>
 Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems – Linux. Monitoring – Grafana. CI/CD – Jenkins. Container Orchestration – Kubernetes, Docker.
 
-## Projects
+## Projects | [Github Repo] (https://github.com/kontacky01)
 ### Enhanced site reliability and application value using SRE principles, mthree
 - Used Python and Bash to manage the APIs and components of a trading application hosted on an AWS EC2 instance, implementing SRE principles such as automation, monitoring, and toil reduction.
 - Configured the application’s architecture, which included Docker, GitHub, Jenkins, Flux CD, Kubernetes, and Grafana.
@@ -37,6 +37,6 @@ Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems –
 ![](/assets/proj6.jpg)
 
 ### Student Support Specialist, Washington Middle School, and Jamestown High School
-- Completed a 3-month internship focused on supporting at-risk students to prevent dropout. My role involved helping students from challenging backgrounds by ensuring they stayed in school, kept up with their work, and remained on track for high school graduation. I assisted students with academic work and fostered essential soft skills, including planning, time management, and motivation.".
-** Github repo - https://github.com/kontacky01 **
+- Completed a 3-month internship focused on supporting at-risk students to prevent dropout. My role involved helping students from challenging backgrounds by ensuring they stayed in school, kept up with their work, and remained on track for high school graduation. I assisted students with academic work and fostered essential soft skills, including planning, time management, and motivation.". <br>
+
 ** References available upon request.**
