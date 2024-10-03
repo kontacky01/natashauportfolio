@@ -25,7 +25,7 @@ Tools: Version Control – GitHub. Platforms – MS Azure. Operating Systems –
 ![](/assets/proj2.png)
 
 ### Software Licenses Manager, Concordia University
-- Designed a website facilitating software exchange between providers and clients, emphasizing the generation, secure storage, and validation of software serial numbers. This project allowed me to expand my skills in both back-end and front-end web programming.
+- Designed a website to facilitate software license sales from providers to clients, focusing on the generation, secure storage, and validation of software serial numbers. This project allowed me to expand my skills in both back-end and front-end web programming.
 ![](/assets/proj3.png)
 
 ### Risk Warzone Game Programming, Concordia University
