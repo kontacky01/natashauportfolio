@@ -1,4 +1,4 @@
-# Aspiring Business/Data Analyst or SRE Engineer
+# Aspiring Lead Developer/Analyst
 
 Languages: English (Fluent), French (Fluent)
 
