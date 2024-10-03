@@ -1,4 +1,4 @@
-# Aspiring DevOps or SRE Engineer
+# Aspiring Business/Data Analyst or SRE Engineer
 
 Languages: English (Fluent), French (Fluent)
 
