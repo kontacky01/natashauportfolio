@@ -17,7 +17,7 @@ Tools: Version Control – GitHub. Platforms – MS Azure, Dataverse, PowerApps,
 ![](/assets/proj5.png)
 
 ### SKU analysis and product matching, MECP company through Concordia University
-- Worked on a project comparing and matching products of MECP company with competitors' products through SKU and product description analysis. We focused on evaluating the accuracy and computational efficiency of various similarity algorithms.
+- Worked on a project comparing and matching products from MECP, a pharmaceutical equipment company, with competitors' offerings through SKU and product description analysis. We focused on evaluating the accuracy and computational efficiency of various similarity algorithms using Python and its big data manipulation libraries.
 ![](/assets/proj1.png)
 
 ### Housing Price Prediction, Concordia University
@@ -25,7 +25,7 @@ Tools: Version Control – GitHub. Platforms – MS Azure, Dataverse, PowerApps,
 ![](/assets/proj2.png)
 
 ### Software Licenses Manager, Concordia University
-- Designed a website to facilitate software license sales from providers to clients, focusing on the generation, secure storage, and validation of software serial numbers. This project allowed me to expand my skills in both back-end and front-end web programming.
+- Designed a website to facilitate software license sales from providers to clients, focusing on the generation, secure storage, and validation of software serial numbers. This project allowed me to expand my skills in both back-end and front-end web programming using HTML/CSS, NOde.js, and MySQL.
 ![](/assets/proj3.png)
 
 ### Risk Warzone Game Programming, Concordia University
